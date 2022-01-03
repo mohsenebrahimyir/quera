@@ -20,3 +20,4 @@ https://quera.ir/problemset/3537/
 ```
 
 - [3537: سوال زرد](https://quera.ir/problemset/3537/)
+- [2885: یک سوال ساده](https://quera.ir/problemset/2885/)
