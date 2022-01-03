@@ -15,10 +15,12 @@
 می‌توانید شماره‌ی هر مسئله را به صورت زیر در نوار آدرس مرورگر خود
 قرار دهید تا به صورت مسئله دسترسی پیدا کنید.
 
-```url
+```
 https://quera.ir/problemset/3537/
 ```
 
-- [3537: سوال زرد](https://quera.ir/problemset/3537/)
-- [2885: یک سوال ساده](https://quera.ir/problemset/2885/)
-- [3429: یخدارچی](https://quera.ir/problemset/3429/)
+1. [3537: سوال زرد](https://quera.ir/problemset/3537/)
+1. [2885: یک سوال ساده](https://quera.ir/problemset/2885/)
+1. [3429: یخدارچی](https://quera.ir/problemset/3429/)
+1. [589: فاکتوریل](https://quera.ir/problemset/589/)
+1. [10230: مشق شب باقر](https://quera.ir/problemset/10230/)
