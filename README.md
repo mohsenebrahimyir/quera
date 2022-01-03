@@ -25,4 +25,5 @@ https://quera.ir/problemset/3537/
 1. [589: فاکتوریل](https://quera.ir/problemset/589/)
 1. [10230: مشق امشب باقر](https://quera.ir/problemset/10230/)
 1. [3539: تک رقمی](https://quera.ir/problemset/3539/)
-1. [3539: جدول ضرب گنده](https://quera.ir/problemset/3409/)
+1. [3409: جدول ضرب گنده](https://quera.ir/problemset/3409/)
+1. [280: اعداد فیثاغورثی](https://quera.ir/problemset/280/)
