@@ -23,4 +23,5 @@ https://quera.ir/problemset/3537/
 1. [2885: یک سوال ساده](https://quera.ir/problemset/2885/)
 1. [3429: یخدارچی](https://quera.ir/problemset/3429/)
 1. [589: فاکتوریل](https://quera.ir/problemset/589/)
-1. [10230: مشق شب باقر](https://quera.ir/problemset/10230/)
+1. [10230: مشق امشب باقر](https://quera.ir/problemset/10230/)
+1. [3539: تک رقمی](https://quera.ir/problemset/3539/)
