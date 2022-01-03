@@ -3,7 +3,15 @@
 
 ### https://quera.ir/problemset/3537/ ###
 
+from typing import Text
+
+
 information_count = input()
+
 information_count = int(information_count)
 
-print("W", "o"*information_count, "w!", sep="")
+o = "o" * information_count
+
+message = "W" + o + "w!"
+
+print(message)
