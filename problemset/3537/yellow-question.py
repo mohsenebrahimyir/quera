@@ -3,9 +3,6 @@
 
 ### https://quera.ir/problemset/3537/ ###
 
-from typing import Text
-
-
 information_count = input()
 
 information_count = int(information_count)
