@@ -1,4 +1,4 @@
-# !/user/bin/python
+#!/usr/bin/python3
 # Github: https://github.com/mohsenebrahimyir/quera
 
 ### Quera: https://quera.ir/problemset/2885/ ###
