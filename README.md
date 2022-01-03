@@ -24,6 +24,7 @@ https://quera.ir/problemset/3537/
 1. [9774: عدد چاپ کن](https://quera.ir/problemset/9774/)
 1. [589: فاکتوریل](https://quera.ir/problemset/589/)
 1. [280: اعداد فیثاغورثی](https://quera.ir/problemset/280/)
+1. [616: توان دو](https://quera.ir/problemset/616/)
 
 ## المپیاد
 
