@@ -4,7 +4,6 @@
 ### https://quera.ir/problemset/3537/ ###
 
 information_count = input()
-
 information_count = int(information_count)
 
 o = "o" * information_count

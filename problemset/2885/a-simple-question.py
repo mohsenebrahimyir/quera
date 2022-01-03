@@ -4,8 +4,9 @@
 ### Quera: https://quera.ir/problemset/2885/ ###
 
 line_count = input()
+line_count = int(line_count)
 
-line_count_minus_1 = int(line_count) - 1
+line_count_minus_1 = line_count - 1
 
 hi_says = "man khoshghlab hastam"
 

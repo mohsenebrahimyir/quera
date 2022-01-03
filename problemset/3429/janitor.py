@@ -4,7 +4,6 @@
 ### https://quera.ir/problemset/3429/ ###
 
 temperature = input()
-
 temperature = int(temperature)
 
 if temperature > 100:
