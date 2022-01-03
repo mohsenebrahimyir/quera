@@ -1,5 +1,7 @@
 # !/user/bin/python
-# https://quera.ir/problemset/2885/
+# Github: https://github.com/mohsenebrahimyir/quera
+
+### Quera: https://quera.ir/problemset/2885/ ###
 
 line_count = input()
 line_count_minus_1 = int(line_count) - 1

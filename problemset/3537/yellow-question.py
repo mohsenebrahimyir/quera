@@ -1,5 +1,7 @@
 # !/user/bin/python
-# https://quera.ir/problemset/3537/
+# Github: https://github.com/mohsenebrahimyir/quera
+
+### https://quera.ir/problemset/3537/ ###
 
 information_count = input()
 information_count = int(information_count)
