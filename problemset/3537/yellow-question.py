@@ -1,7 +1,7 @@
 # !/user/bin/python
 # https://quera.ir/problemset/3537/
 
-info_count = input()
-info_count = int(info_count)
+information_count = input()
+information_count = int(information_count)
 
-print("W", "o"*info_count, "w!", sep="")
+print("W", "o"*information_count, "w!", sep="")
