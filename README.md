@@ -21,10 +21,10 @@ https://quera.ir/problemset/3537/
 
 ## دانشگاهی
 
-1. [9774: عدد چاپ کن](https://quera.ir/problemset/9774/)
-1. [589: فاکتوریل](https://quera.ir/problemset/589/)
-1. [280: اعداد فیثاغورثی](https://quera.ir/problemset/280/)
-1. [616: توان دو](https://quera.ir/problemset/616/)
+1. [x] [9774: عدد چاپ کن](https://quera.ir/problemset/9774/)
+1. [x] [589: فاکتوریل](https://quera.ir/problemset/589/)
+1. [x] [280: اعداد فیثاغورثی](https://quera.ir/problemset/280/)
+1. [x] [616: توان دو](https://quera.ir/problemset/616/)
 
 ## المپیاد
 
@@ -32,14 +32,18 @@ https://quera.ir/problemset/3537/
 
 ## مسابقه
 
-1. [3537: سوال زرد](https://quera.ir/problemset/3537/)
-1. [2885: یک سوال ساده](https://quera.ir/problemset/2885/)
-1. [3429: یخدارچی](https://quera.ir/problemset/3429/)
-1. [10162: روز آزادی بیان در برره](https://quera.ir/problemset/10162/)
-1. [10230: مشق امشب باقر](https://quera.ir/problemset/10230/)
-1. [3539: تک رقمی](https://quera.ir/problemset/3539/)
-1. [3409: جدول ضرب گنده](https://quera.ir/problemset/3409/)
+1. [x] [3537: سوال زرد](https://quera.ir/problemset/3537/)
+1. [x] [2885: یک سوال ساده](https://quera.ir/problemset/2885/)
+1. [x] [3429: یخدارچی](https://quera.ir/problemset/3429/)
+1. [x] [10162: روز آزادی بیان در برره](https://quera.ir/problemset/10162/)
+1. [x] [10230: مشق امشب باقر](https://quera.ir/problemset/10230/)
+1. [x] [3539: تک رقمی](https://quera.ir/problemset/3539/)
+1. [x] [3409: جدول ضرب گنده](https://quera.ir/problemset/3409/)
 
 ## تکنولوژی
 
--
+### جنگو
+
+1. [ ] [14742: بلاگ](https://quera.ir/problemset/14742/)
+1. [x] [21210: کارت پستال](https://quera.ir/problemset/21210/)
+
