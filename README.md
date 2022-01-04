@@ -46,4 +46,5 @@ https://quera.ir/problemset/3537/
 
 1. [ ] [14742: بلاگ](https://quera.ir/problemset/14742/)
 1. [x] [21210: کارت پستال](https://quera.ir/problemset/21210/)
+1. [x] [16399: فارسیزیشن](https://quera.ir/problemset/16399/)
 
