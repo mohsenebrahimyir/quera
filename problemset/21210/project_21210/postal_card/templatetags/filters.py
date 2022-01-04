@@ -1,3 +1,8 @@
+#!/usr/bin/python3
+# Github: https://github.com/mohsenebrahimyir/quera
+
+### https://quera.ir/problemset/21210/ ###
+
 from django import template
 
 register = template.Library()
