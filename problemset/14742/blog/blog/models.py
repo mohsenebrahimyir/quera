@@ -15,18 +15,19 @@ class BlogPost(models.Model):
     date_created = models.DateTimeField(auto_now_add=True)
 
     def copy(self):
-        blog_post = BlogPost.objects.get(pk=self.id)
-        comments = blog_post.comment_set.all()
-        len_comment = len(comments)
-        blog_post.pk = None
-        blog_post.save()
+        blg = BlogPost.objects.get(pk=self.pk)
+        cmts = blg.comment_set.all()
+        len_cmts = len(cmts)*2
+        blg.pk = None
+        blg.save()
+        
+        if cmts:
+            for cmt in cmts:
+                cmt.pk = None
+                cmt.blog_post = blg
+                cmt.save()
 
-        for comment in comments:
-            comment.pk = None
-            comment.blog_post = blog_post
-            comment.save()
-
-        return blog_post.id
+        return blg.id
 
 
 class Comment(models.Model):
