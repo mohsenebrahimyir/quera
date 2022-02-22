@@ -2,7 +2,6 @@
 # Github: https://github.com/mohsenebrahimyir/quera
 ### https://quera.ir/problemset/589/ ###
 
-
 def factorial():
     n = input()
     n = int(n)

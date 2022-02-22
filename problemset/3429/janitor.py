@@ -1,16 +1,21 @@
 #!/usr/bin/python3
 # Github: https://github.com/mohsenebrahimyir/quera
-
 ### https://quera.ir/problemset/3429/ ###
 
-temperature = input()
-temperature = int(temperature)
 
-if temperature > 100:
-    message = "Steam"
-elif temperature < 0:
-    message = "Ice"
-else:
-    message = "Water"
+def samovar_temperature():
+    temp = input()
+    temp = int(temp)
 
-print(message)
+    if temp > 100:
+        message = "Steam"
+    elif temp < 0:
+        message = "Ice"
+    else:
+        message = "Water"
+
+    return message
+
+if __name__ == '__main__':
+    result = samovar_temperature()
+    print(result)

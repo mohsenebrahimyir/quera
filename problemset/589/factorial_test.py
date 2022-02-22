@@ -9,7 +9,7 @@ from factorial import factorial
 
 
 class TestListMatchSearchs(unittest.TestCase):
-        
+
     @patch('builtins.input', return_value=5)
     def test_factorial_5(self, mock_inputs):
         result = factorial()
@@ -18,3 +18,4 @@ class TestListMatchSearchs(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
