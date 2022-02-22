@@ -44,6 +44,7 @@ https://quera.ir/problemset/3537/
 1. [x] [129728: تَخَطّی‌گَری](https://quera.ir/problemset/129728/)
 1. [x] [129726: مُجَزا](https://quera.ir/problemset/129726/)
 1. [x] [83360: نظریه ریسمان](https://quera.ir/problemset/83360/)
+1. [x] [۸۷۱۷۶: بازی تفاضل](https://quera.ir/problemset/8۷۱۷۶/)
 
 
 ### جنگو
