@@ -39,6 +39,10 @@ https://quera.ir/problemset/3537/
 1. [x] [10230: مشق امشب باقر](https://quera.ir/problemset/10230/)
 1. [x] [3539: تک رقمی](https://quera.ir/problemset/3539/)
 
+### اچ.دی.ام.ال و سی.اس.اس
+
+1. [x] [33043: صفحه‌ی پاسخگو](https://quera.ir/problemset/33043/)
+
 ### پایتون
 
 1. [x] [129728: تَخَطّی‌گَری](https://quera.ir/problemset/129728/)
