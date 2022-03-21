@@ -45,6 +45,12 @@ https://quera.ir/problemset/3537/
 1. [x] [18850: جدول‌بازی](https://quera.ir/problemset/18850/)
 1. [x] [109570: اسنپ‌شاپ](https://quera.ir/problemset/109570/)
 
+
+### جاوا اسکریپت
+
+1. [x] [49606: Background Color Switch](https://quera.ir/problemset/49606/)
+
+
 ### پایتون
 
 1. [x] [129728: تَخَطّی‌گَری](https://quera.ir/problemset/129728/)
