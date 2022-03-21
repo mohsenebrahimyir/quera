@@ -42,6 +42,7 @@ https://quera.ir/problemset/3537/
 ### اچ.دی.ام.ال و سی.اس.اس
 
 1. [x] [33043: صفحه‌ی پاسخگو](https://quera.ir/problemset/33043/)
+1. [x] [18850: جدول‌بازی](https://quera.ir/problemset/18850/)
 
 ### پایتون
 
