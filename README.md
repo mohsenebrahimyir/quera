@@ -43,13 +43,14 @@ https://quera.ir/problemset/3537/
 
 1. [x] [33043: صفحه‌ی پاسخگو](https://quera.ir/problemset/33043/)
 1. [x] [18850: جدول‌بازی](https://quera.ir/problemset/18850/)
+1. [x] [109570: اسنپ‌شاپ](https://quera.ir/problemset/109570/)
 
 ### پایتون
 
 1. [x] [129728: تَخَطّی‌گَری](https://quera.ir/problemset/129728/)
 1. [x] [129726: مُجَزا](https://quera.ir/problemset/129726/)
 1. [x] [83360: نظریه ریسمان](https://quera.ir/problemset/83360/)
-1. [x] [۸۷۱۷۶: بازی تفاضل](https://quera.ir/problemset/8۷۱۷۶/)
+1. [x] [87176: بازی تفاضل](https://quera.ir/problemset/87176/)
 1. [x] [102248: مقایسه‌گر](https://quera.ir/problemset/102248/)
 
 
