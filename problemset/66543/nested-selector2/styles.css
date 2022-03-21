@@ -1,0 +1,11 @@
+/* ***********************************************
+Github: https://github.com/mohsenebrahimyir/quera
+Quera: https://quera.ir/problemset/66543/ 
+*********************************************** */
+
+body p {
+    color: indianred !important;
+}
+#container p {
+    color: indigo  !important;
+}
