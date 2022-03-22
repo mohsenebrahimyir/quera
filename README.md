@@ -45,6 +45,7 @@ https://quera.ir/problemset/3537/
 1. [x] [66543: انتخاب‌کننده تودرتو](https://quera.ir/problemset/66543/)
 1. [x] [18850: جدول‌بازی](https://quera.ir/problemset/18850/)
 1. [x] [109570: اسنپ‌شاپ](https://quera.ir/problemset/109570/)
+1. [x] [21220: خالی‌های رنگی](https://quera.ir/problemset/21220/)
 
 
 ### جاوا اسکریپت
