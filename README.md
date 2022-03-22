@@ -46,6 +46,7 @@ https://quera.ir/problemset/3537/
 1. [x] [18850: جدول‌بازی](https://quera.ir/problemset/18850/)
 1. [x] [109570: اسنپ‌شاپ](https://quera.ir/problemset/109570/)
 1. [x] [21220: خالی‌های رنگی](https://quera.ir/problemset/21220/)
+1. [x] [132260: سلام کدکاپ](https://quera.ir/problemset/132260/)
 
 
 ### جاوا اسکریپت
